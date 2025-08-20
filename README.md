@@ -51,10 +51,10 @@ A web application for managing and tracking financial savings goals with data pe
    npm run dev
    ## Author
 
-**Suleiman Aziz**  
-Email: [suleimanaziz212@gmail.com](mailto:suleimanaziz212@gmail.com)
+**Suleiman Aziz**
+Email: [ochielsenor@gmail.com](mailto:ochielsenorgmail.com)
 
 ## License
 
-**MIT License**  
+**MIT License**
 MIT
