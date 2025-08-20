@@ -37,7 +37,7 @@ A web application for managing and tracking financial savings goals with data pe
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Suleyaziz/code-challenge-week-2
+   git clone https://github.com/EricO166/code-challenge-week-2
    cd code-challenge-week-2
 2. Install and watch db.json server
     ```bash
